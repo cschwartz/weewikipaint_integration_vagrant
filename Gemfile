@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "vagrant"
+gem "vagrant", ">= 1.0.0"
 gem "librarian"
