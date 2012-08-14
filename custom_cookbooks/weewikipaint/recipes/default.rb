@@ -2,7 +2,7 @@ git "/home/vagrant/weewikipaint" do
   user "vagrant"
   group "vagrant"
   repository "/weewikipaint-git"
-  revision "integration"
+  revision "master"
   action :sync
 end
 
